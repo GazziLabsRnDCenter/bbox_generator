@@ -1,4 +1,4 @@
-# Calculates and Genereates Bounding boxes coordinates   
+# Calculates and Generates Bounding Boxes Coordinates from the Polygonal Coordinates in JSON Metadata   
 
 이 유틸리티는 2021년 인공지능 학습 데이터 구축 사업의 반려동물 피부질환 데이터에 대하여 JSON 메타데이터의 polygon 정보로부터 bounding box 정보를 생성, 추가합니다.   
 

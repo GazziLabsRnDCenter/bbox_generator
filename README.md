@@ -32,7 +32,7 @@ boundingBox가 있을 경우, 아래의 항목을 추가하여 저장했습니�
 
 
 ## BoundingBox의 형태 예시)
-```
+```json
 {
     "boundingBox": {
     "location": [
